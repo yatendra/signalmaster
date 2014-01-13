@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "repository": {
     "type": "git", 
-    "url": "git@github.com:andyet/signal-master.git"
+    "url": "https://github.com/yatendra/signalmaster.git"
   },
-  "description": "Mind-meldification for teams",
+  "description": "Signal master",
   "dependencies": {
     "async": "0.1.9",
     "node-uuid": "1.2.0",
