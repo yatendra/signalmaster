@@ -2,7 +2,7 @@
 var yetify = require('yetify'),
     config = require('getconfig'),
     uuid = require('node-uuid'),
-    port = process.env.PORT || config.server.port,
+    port = process.env.PORT || 8888,
     io = require('socket.io').listen(port);
 
 function describeRoom(name) {
